@@ -15,6 +15,7 @@ Registro de películas con: título, año de estreno, género, director, calific
 -Soporte para conexión a bases de datos como SQLite o SQL Server.
 
 🛠️ Tecnologías utilizadas:
+
 -C#
 
 -ASP.NET Core
